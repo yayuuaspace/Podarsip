@@ -1,11 +1,17 @@
+PODARSIP[index.html](https://github.com/user-attachments/files/27564117/index.html)
 
-  # Untitled
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Untitled</title>
+      <style>html, body { height: 100%; margin: 0; } #root { height: 100%; }</style>
+    </head>
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/bEV6T7wD6kXiMD4Ngdxwxz/Untitled.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+    <body>
+      <div id="root"></div>
+      <script type="module" src="/src/main.tsx"></script>
+    </body>
+  </html>
   
